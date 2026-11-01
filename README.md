@@ -1,3 +1,6 @@
+## License
+   © 2026 Elhabchi Mohammed. All Rights Reserved.
+
 # LinguaFranca
 
 Une application MERN pour apprendre le français : leçons A1/A2, quiz interactifs et suivi de progression.
